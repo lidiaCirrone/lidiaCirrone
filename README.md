@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**lidiaCirrone/lidiaCirrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lidia. '94. Italian.  
+Born and raised in Torino.  
+Obsessed with foreign languages, tea, travels and concerts.
 
-Here are some ideas to get you started:
+### Skills & Interests 💖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ currently diving into ReactJS  
+🐍 a little bit of Python  
+⚡ PHP and WordPress  
+🖌️ loads of HTML and CSS
+
+### Links 🔗
+
+[📚 Blog](https://www.polyglotwannabe.com/)  
+[🦉 Duolingo](https://www.duolingo.com/lidiaCirrone)  
+[💼 LinkedIn](https://www.linkedin.com/in/lidiacirrone/)
