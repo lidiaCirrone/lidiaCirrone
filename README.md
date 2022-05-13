@@ -10,7 +10,7 @@ Obsessed with foreign languages, tea, travels and concerts.
 ✨ currently diving into ReactJS  
 🐍 a little bit of Python  
 ⚡ PHP and WordPress  
-🖌️ loads of HTML and CSS
+🖌️ loads of HTML, CSS and JavaScript
 
 ### Stats 🔥
 
