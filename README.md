@@ -7,7 +7,7 @@ Obsessed with foreign languages, tea, travels and concerts.
 ### Skills & Interests 💖
 
 
-✨ currently diving into ReactJS, React Native & TypeScript
+✨ currently diving into ReactJS, React Native & TypeScript  
 🐍 a little bit of Python  
 ⚡ PHP and WordPress  
 🖌️ loads of HTML, CSS and JavaScript
