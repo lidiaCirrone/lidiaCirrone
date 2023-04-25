@@ -14,7 +14,7 @@ Obsessed with foreign languages, tea, travels and concerts.
 
 ### Stats 🔥
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaCirrone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lidiaCirrone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Links 🔗
