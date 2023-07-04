@@ -6,11 +6,11 @@ Obsessed with foreign languages, tea, travels and concerts.
 
 ### Skills & Interests 💖
 
-
 ✨ currently diving into ReactJS, React Native (+ Expo) & Next.js  
-🖌️ loads of HTML, CSS and JavaScript
+🖌️ loads of HTML, CSS and JavaScript  
 ⚡ PHP and WordPress  
-🐍 a little bit of Python  
+🐍 a little bit of Python
+ 
 
 ### Stats 🔥
 
