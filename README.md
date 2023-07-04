@@ -8,9 +8,9 @@ Obsessed with foreign languages, tea, travels and concerts.
 
 
 ✨ currently diving into ReactJS, React Native (+ Expo) & Next.js  
-🐍 a little bit of Python  
-⚡ PHP and WordPress  
 🖌️ loads of HTML, CSS and JavaScript
+⚡ PHP and WordPress  
+🐍 a little bit of Python  
 
 ### Stats 🔥
 
