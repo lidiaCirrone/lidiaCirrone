@@ -6,7 +6,8 @@ Obsessed with foreign languages, tea, travels and concerts.
 
 ### Skills & Interests 💖
 
-✨ currently diving into ReactJS, React Native (+ Expo) & Next.js  
+✨ currently diving into Angular and Next.js
+⚙️ ReactJS and React Native (+ Expo)  
 🖌️ loads of HTML, CSS and JavaScript  
 ⚡ PHP and WordPress  
 🐍 a little bit of Python
