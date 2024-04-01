@@ -8,7 +8,7 @@ Obsessed with foreign languages, tea, travels and concerts.
 
 ✨ currently diving into Angular and Next.js  
 ⚙️ ReactJS and React Native (+ Expo)  
-💖 TypeScript recently got a hold of my heart  
+💖 TypeScript and SCSS recently got a hold of my heart  
 🖌️ loads of HTML, CSS and JavaScript  
 ⚡ PHP and WordPress  
 🐍 a little bit of Python
