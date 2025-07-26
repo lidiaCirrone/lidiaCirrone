@@ -4,11 +4,13 @@ Lidia. '94. Italian.
 Born and raised in Torino.  
 Obsessed with foreign languages, tea, travels and concerts.
 
+-- more about me [here](https://www.polyglotwannabe.com/) --
+
 ### Skills & Interests 🤹
 
-✨ currently diving into Next.js  
 ⚙️ ReactJS and React Native (+ Expo)  
-💖 TypeScript and SCSS recently got a hold of my heart  
+💖 TypeScript and SCSS got a hold of my heart  
+✨ dived into Next.js 
 🖌️ loads of HTML, CSS and JavaScript  
 ⚡ PHP and WordPress  
 🐍 a little bit of Python and Angular
